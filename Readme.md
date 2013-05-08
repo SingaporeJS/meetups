@@ -44,3 +44,14 @@
 
 ### Testing and Documenting RESTful/Pragmatic Web API – Arul Kumaran
 * [Slides](http://www.slideshare.net/ArulKumaran/testing-and-documenting-pragmatic-restful-web-api)
+
+## [February 2013](http://www.meetup.com/Singapore-JS/events/99986652/)
+
+### Hypermedia APIs – Wei Lu
+* [Slides](https://docs.google.com/presentation/d/1W1IXkNltlmKHA3i8-1C8-vPRQ4E7JkqHmgEWyPuq0Ms/edit#slide=id.p)
+
+### Javascript database module for Indexeddb, Web SQL and localStorage – Kyaw Tun
+* [Code](https://github.com/yathit/ydn-db)
+
+### LeapMotion Demo – Liang Zan Wong
+* [Code](https://github.com/liangzan/leap-demo)
