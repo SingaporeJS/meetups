@@ -1,6 +1,6 @@
 # Singapore JS
 
-### Community page containing for past/present/future [SGJS meetups](http://www.meetup.com/Singapore-JS)
+### Community collection of [SGJS meetup](http://www.meetup.com/Singapore-JS) resources.
 
 [Edit this page!](https://github.com/Singapore-JS/meetups/edit/master/Readme.md)
 
