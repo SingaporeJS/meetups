@@ -49,6 +49,7 @@
 
 ### Hypermedia APIs – Wei Lu
 * [Slides](https://docs.google.com/presentation/d/1W1IXkNltlmKHA3i8-1C8-vPRQ4E7JkqHmgEWyPuq0Ms/edit#slide=id.p)
+* [Demo](https://github.com/weilu/stackexchange)
 
 ### Javascript database module for Indexeddb, Web SQL and localStorage – Kyaw Tun
 * [Code](https://github.com/yathit/ydn-db)
