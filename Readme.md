@@ -2,7 +2,7 @@
 
 ### Community collection of [SGJS meetup](http://www.meetup.com/Singapore-JS) resources.
 
-[Edit this page!](https://github.com/Singapore-JS/meetups/edit/master/Readme.md)
+This is a community project, so feel free to [edit this page](https://github.com/Singapore-JS/meetups/edit/master/Readme.md)
 
 ## [May 2013](http://www.meetup.com/Singapore-JS/events/116409232/)
 
