@@ -23,7 +23,7 @@
 #### Joshua Koo
 * [Slides](http://slid.es/zz85/the-js1k-experience)
 
-[April 2013](http://www.meetup.com/Singapore-JS/events/111132882/)
+## [April 2013](http://www.meetup.com/Singapore-JS/events/111132882/)
 
 ### Test all of the things: Unit testing, functional testing, code hinting
 #### Sebastiaan Deckers
