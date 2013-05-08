@@ -6,37 +6,41 @@
 
 ## [May 2013](http://www.meetup.com/Singapore-JS/events/116409232/)
 
-### Use ECMAScript 6 Today Part II
-#### Sayanee Basu
+### ClojureScript - The Action Movie – Yu-Xi Lim
+* No slides yet
+
+### Use ECMAScript 6 Today Part II – Sayanee Basu
 * [Slides & Code (.zip)](https://dl.dropboxusercontent.com/u/57433/es6-part2.zip)
 * [Sayanee's ES6 Article on NetTuts](http://net.tutsplus.com/articles/news/ecmascript-6-today/)
 
-### ClojureScript - The action movie
-#### Yu-Xi Lim
-* No slides yet
-
-### Supercharge your web applications with asm.js.
-#### Tran Dac Anh 
+### Supercharge your web applications with asm.js. – Tran Dac Anh
 * [Slides](https://docs.google.com/presentation/d/1aAQShiwDBWBQ-2fRlJtRiUHuorcT6twdGZ4Bv2_sbgE/present#slide=id.p13)
 
-### The js1k experience
-#### Joshua Koo
+### The js1k experience – Joshua Koo
 * [Slides](http://slid.es/zz85/the-js1k-experience)
 
 ## [April 2013](http://www.meetup.com/Singapore-JS/events/111132882/)
 
-### Test all of the things: Unit testing, functional testing, code hinting
-#### Sebastiaan Deckers
+### Test all of the things – Sebastiaan Deckers
+#### Unit testing, functional testing, code hinting
 * [Slides](http://webcache.googleusercontent.com/search?q=cache:gSAGNOCUf3MJ:ninja.sg/2013/04/01/frontend-testing/+&cd=1&hl=en&ct=clnk&gl=sg)
 
-### What is FirefoxOS?
-#### Chit Thiri Maung
+### What is FirefoxOS? – Chit Thiri Maung
 * [Slides](http://www.slideshare.net/ahkeno/what-is-firefox-os)
 
-### What perhaps you don't know about JavaScript functions.
-#### Li Xiang
+### What perhaps you don't know about JavaScript functions. – Li Xiang
 * No slides yet
 
-### Supercharge your Stack with Vagrant & Puppet
-#### Michael Cheng
+### Supercharge your Stack with Vagrant & Puppet – Michael Cheng
 * [Slides](https://speakerdeck.com/miccheng/supercharge-your-stack-with-vagrant)
+
+## [March 2013](http://www.meetup.com/Singapore-JS/events/105620502/)
+
+### Use ECMAScript 6 Today Part II – Sayanee Basu
+* [Slides & Code (.zip)](https://dl.dropbox.com/u/57433/es6.zip)
+
+### Literate Programming and Punch – Lakshan Perera
+* [Repo](https://github.com/laktek/litcoffee-content-handler)
+
+### Testing and Documenting RESTful/Pragmatic Web API – Arul Kumaran
+* [Slides](http://www.slideshare.net/ArulKumaran/testing-and-documenting-pragmatic-restful-web-api)
