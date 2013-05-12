@@ -37,7 +37,7 @@ This is a community project, so feel free to [edit this page](https://github.com
 ## [March 2013](http://www.meetup.com/Singapore-JS/events/105620502/)
 
 ### Use ECMAScript 6 Today Part I – Sayanee Basu
-* [Slides]()https://speakerdeck.com/sayanee/ecmascript-6-part-1 & [Code](https://github.com/sayanee/Talks/blob/master/es6-part1)
+* [Slides](https://speakerdeck.com/sayanee/ecmascript-6-part-1) & [Code](https://github.com/sayanee/Talks/blob/master/es6-part1)
 * [Sayanee's ES6 Article on NetTuts](http://net.tutsplus.com/articles/news/ecmascript-6-today/)
 
 
