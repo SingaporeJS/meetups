@@ -10,7 +10,7 @@ This is a community project, so feel free to [edit this page](https://github.com
 * No slides yet
 
 ### Use ECMAScript 6 Today Part II – Sayanee Basu
-* [Slides & Code (.zip)](https://dl.dropboxusercontent.com/u/57433/es6-part2.zip)
+* [Slides](https://speakerdeck.com/sayanee/ecmascript-6-part-2) & [Code](https://github.com/sayanee/Talks/blob/master/es6-part2)
 * [Sayanee's ES6 Article on NetTuts](http://net.tutsplus.com/articles/news/ecmascript-6-today/)
 
 ### Supercharge your web applications with asm.js. – Tran Dac Anh
@@ -36,8 +36,10 @@ This is a community project, so feel free to [edit this page](https://github.com
 
 ## [March 2013](http://www.meetup.com/Singapore-JS/events/105620502/)
 
-### Use ECMAScript 6 Today Part II – Sayanee Basu
-* [Slides & Code (.zip)](https://dl.dropbox.com/u/57433/es6.zip)
+### Use ECMAScript 6 Today Part I – Sayanee Basu
+* [Slides](https://speakerdeck.com/sayanee/ecmascript-6-part-1) & [Code](https://github.com/sayanee/Talks/blob/master/es6-part1)
+* [Sayanee's ES6 Article on NetTuts](http://net.tutsplus.com/articles/news/ecmascript-6-today/)
+
 
 ### Literate Programming and Punch – Lakshan Perera
 * [Repo](https://github.com/laktek/litcoffee-content-handler)
